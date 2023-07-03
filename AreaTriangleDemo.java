@@ -1,3 +1,11 @@
+//Good 
+/*
+* Missing things.
+* Indentation is missing
+* package name is missing
+* Javadoc comments are missing
+*/
+
 import java.util.Scanner;
 class AreaTriangleDemo {
 public static void main(String args[]) {
