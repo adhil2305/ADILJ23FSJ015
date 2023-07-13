@@ -1,4 +1,3 @@
-package skirmish;
 
 public class HowToSort1 {
 	public static void main(String[] args) {
