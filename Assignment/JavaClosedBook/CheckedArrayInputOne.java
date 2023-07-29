@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class ArrayInputOne {
+public class CheckedArrayInputOne {
 	public static void main(String[] args) {
 		
 		ArrayReshaping ad = new ArrayReshaping();
