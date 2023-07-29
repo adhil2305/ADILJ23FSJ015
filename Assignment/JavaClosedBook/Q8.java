@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FindElementIndex {
+public class Q8 {
 	public static void main(String[] args) {
 		int[] arr = {5,1,4,6,7};
 		Scanner s = new Scanner(System.in);
