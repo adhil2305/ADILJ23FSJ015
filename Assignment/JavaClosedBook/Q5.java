@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class AverageDemo2 {
+public class Q5 {
 	public static void main(String[] args) {
 		Tiger obj = new Tiger();
 		obj.doIt();
