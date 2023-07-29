@@ -1,4 +1,4 @@
-public class NumberToString {
+public class Q18 {
 	public static void main(String[] args) {
 	
 		 String values[]={"zero","one","two","three","four","five","six","seven","eight","nine"};
