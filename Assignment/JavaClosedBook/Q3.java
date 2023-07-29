@@ -1,5 +1,5 @@
 
-public class CastingExercise {
+public class Q3 {
 	public static void main(String[] args) {
 		//Note to self don't run the program just for self improvement
 		byte b = 10;
