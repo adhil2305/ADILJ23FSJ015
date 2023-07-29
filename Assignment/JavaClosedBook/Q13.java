@@ -1,4 +1,4 @@
-public class StudentMarks {
+public class Q13 {
 	public static void main(String[] args) {
 		int[][] brr = {{95,80,92,81,99},
 					   {90,82,96,98,99},
