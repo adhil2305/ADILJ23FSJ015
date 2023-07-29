@@ -1,4 +1,4 @@
-public class PrimitivTypes{
+public class Q2{
 	
 	static byte b;
 	static short s;
