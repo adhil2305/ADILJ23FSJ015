@@ -1,6 +1,6 @@
 package skirmish;
 
-public class HowToSort1 {
+public class !7 {
 	public static void main(String[] args) {
 		int arr[] = {4,6,1,7};
 		
