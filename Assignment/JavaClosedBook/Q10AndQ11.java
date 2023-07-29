@@ -1,5 +1,5 @@
 
-public class TwoDimArray {
+public class Q10AndQ11 {
 		public static void main(String[] args) {
 			
 			byte row = 4;
