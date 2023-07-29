@@ -1,5 +1,5 @@
 
-public class ReverseTwoDArray {
+public class Q19 {
 	public static void main(String[] args) {
 		
 		int[][] inTwoDArray = {{12,54,65,78},
