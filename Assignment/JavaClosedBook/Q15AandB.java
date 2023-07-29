@@ -1,4 +1,4 @@
-public class Armstrong {
+public class Q15AandB {
 		public static void main(String[] args) {
 	/**
 	 * Hai and Welcome 
